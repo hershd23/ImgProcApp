@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bling</string>
+    <string name="save_string">Save</string>
+    <string name="edit_string">Edit</string>
+    <string name="camera_string">Camera</string>
+    <string name="gallery_string">Gallery</string>
+</resources>
